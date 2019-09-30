@@ -8,3 +8,5 @@ eu tinha esquecido de falar o que eu queria falar
 Existe um arquivo com as linguagens que eu programo.
 
 As minhas modificações
+
+Resolvi um bug nessa linha
