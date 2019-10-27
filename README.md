@@ -1,16 +1,20 @@
-# Este é o meu primeiro repositório git
-Meu nome é Vicente Monteiro
-Minha profissão é de Engenheiro Civil
+# Vicente Monteiro
 
-# Neste respositório colocarei o meu portfolio de desenvolvedor
+## Sobre
 
-Agora eu quero falar mais sobre mim, e o que eu quero falar é que
-eu tinha esquecido de falar o que eu queria falar
+Olá, eu sou o Vicente Monteiro e adoro _Git t GitHub_.
 
-Existe um arquivo com as linguagens que eu programo.
+Se você quiser saber mais sobre mim, pode acessar [meu site](www.vicentemonteiro.com)
 
-As minhas modificações
+## Cursos do Platzi que fiz
 
-Resolvi um bug nessa linha
+- Git e GitHub
+- Desenvolvimento Web
 
-Quero testar se o GitHub está funcionando
+## Linguagens de programação que gosto
+
+### JavaScript
+
+Gosto muito e trabalho com JavaScript há 2 anos.
+
+### Listar novidades
