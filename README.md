@@ -1,5 +1,5 @@
 # Este é o meu primeiro repositório git
-Meu nom é Vicente Monteiro
+Meu nome é Vicente Monteiro
 Minha profissão é de Engenheiro Civil
 
 # Neste respositório colocarei o meu portfolio de desenvolvedor
