@@ -16,3 +16,5 @@ Resolvi um bug nessa linha
 Quero testar se o GitHub está funcionando
 
 Quero testar o pull requests do GitHub
+
+Estou adorando utilizar os pull requests do GitHub, assim meu fluxo de trabalho fica muito mais profissional
